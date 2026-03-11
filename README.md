@@ -1,4 +1,4 @@
-## Hi, I'm Patrick! 👋
+### Hi, I'm Patrick! 👋
 
 I am the **CTO of Bütema AG** and an expert in building high-integrity retail and AI-driven ecosystems.
 
