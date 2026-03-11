@@ -1,4 +1,4 @@
-# Hi, I'm Patrick! 👋
+## Hi, I'm Patrick! 👋
 
 I am the **CTO of Bütema AG** and an expert in building high-integrity retail and AI-driven ecosystems.
 
@@ -13,12 +13,12 @@ As CTO of [Bütema AG](https://www.buetema-ag.de), I lead the technical vision f
 * **Digital Signage:** Architecting CMS and hardware for global screen networks and LED walls.
 * **AI & Automation:** Implementing solutions like the AI assistant **KIra** for automated retail services.
 
-#### ♾️ Featured Project: MACE
+#### ♾️ Featured Project: MACE (Mobile Agentic Commerce Ecosystem)
 Architecting a UCP-native Mobile ERP system designed for **Agentic Commerce**:
 * **Vision:** Enabling AI agents to negotiate and purchase via the **Universal Commerce Protocol**.
 * **Tech:** Using **Azure AI Vision** for instant JSON-LD product transformation and high-integrity inventory systems.
 
 #### Beyond the Code
-* ⛳ **Golf (HCP 14)** . 🍷 **Wine Enthusiast** . ⛏️ **Bitcoin Miner**
+* ⛳ **Golf (HCP <14)** . 🍷 **Wine Enthusiast** . ⛏️ **Bitcoin Miner**
 
-> "Excellence through innovation. Turning ambitious visions into scalable, production-ready solutions."
+"Excellence through innovation. Turning ambitious visions into scalable, production-ready solutions."
