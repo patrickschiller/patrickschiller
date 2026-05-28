@@ -25,8 +25,10 @@ Architecting a UCP-native Mobile ERP system designed for **Agentic Commerce**:
 * **Vision:** Enabling AI agents to negotiate and purchase via the **Universal Commerce Protocol**.
 * **Tech:** Using **Azure AI Vision** for instant JSON-LD product transformation and high-integrity inventory systems.
 
-##### Saalbutler
-A commercial product currently in focus, developed with the same commitment to useful, production-ready digital experiences.
+##### [SaalButler](https://saalbutler.de/)
+Building a Universal PWA for seated events such as Prunksitzungen, theater, and venues:
+* **Vision:** Helping operators increase revenue and reduce stress by letting guests order at the table via QR code, pay with PayPal, and keep kitchen and runner workflows clear in real time.
+* **Tech:** Universal PWA with role-based Guest, Kitchen, Runner, and Admin views, PayPal Express Checkout, WebSockets for real-time order/status updates, tablet-based Kitchen Display, smartphone Runner View, and live revenue tracking.
 
 #### Beyond the Code
 * ⛳ **Golf (HCP <14)** . 🍷 **Wine Enthusiast**
