@@ -11,6 +11,10 @@ I build high-integrity retail and AI-driven ecosystems, with a focus on **Agenti
 #### 🌱 Open Source
 * **[chat-takeout-md](https://github.com/patrickschiller/chat-takeout-md):** A local-first CLI that converts Claude and Gemini data exports into portable Markdown archives, including images and documents available in the export. Processing is entirely offline.
 * **[OpenClockwork](https://github.com/patrickschiller/openclockwork):** A self-hostable, mobile-first PWA for time tracking and attendance, designed around real-world German labour-law workflows. Built with **React, NestJS, PostgreSQL, Prisma**, and an API-first REST/WebSocket architecture.
+* **[SourceBraid](https://github.com/patrickschiller/sourcebraid):** A local-first workflow for turning web sources into durable Markdown archives that stay under the user's control.
+
+#### 💖 Sponsor My Open-Source Work
+If these projects save you time or help you build something better, you can support their continued development through [GitHub Sponsors](https://github.com/sponsors/patrickschiller). Sponsorships help cover hosting, domains, CI infrastructure, documentation, and the time required to maintain dependable open-source releases.
 
 #### 🏢 Bütema AG
 As CTO of [Bütema AG](https://www.buetema-ag.de), I lead the technical vision for **Digital Signage** and **Mobile ERP** (mERP):
