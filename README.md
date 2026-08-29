@@ -1,40 +1,55 @@
-### Hi, I'm Patrick! 👋
+# Hi, I'm Patrick! 👋
 
-I build high-integrity retail and AI-driven ecosystems, with a focus on **Agentic Engineering**: turning AI agents and LLM-powered workflows into reliable, production-ready products.
+I build high-integrity software and AI-driven ecosystems, with a focus on **Agentic Engineering**: turning AI agents, LLMs, and autonomous workflows into reliable, secure, and production-ready systems.
 
-#### 🛠️ Expertise & Areas of Focus
-* **Agentic Engineering & LLMs:** Building, training, and deploying custom LLMs, autonomous AI agents, and dependable agentic workflows.
-* **AI Governance:** Certified AI Officer with a focus on the **EU AI Act**, advising on responsible AI adoption, risk management, and compliance-oriented implementation.
-* **Scalable Architectures:** High-integrity, real-time ecosystems using **NestJS, React, and PostgreSQL**.
-* **Cloud Architecture:** Certified Azure Architect designing scalable enterprise solutions and DevOps pipelines.
+As CTO of [Bütema AG](https://www.buetema-ag.de), I combine hands-on engineering with technical leadership across AI, retail technology, cloud architecture, and scalable product platforms.
 
-#### 🌱 Open Source
-* **[chat-takeout-md](https://github.com/patrickschiller/chat-takeout-md):** A local-first CLI that converts Claude and Gemini data exports into portable Markdown archives, including images and documents available in the export. Processing is entirely offline.
-* **[OpenClockwork](https://github.com/patrickschiller/openclockwork):** A self-hostable, mobile-first PWA for time tracking and attendance, designed around real-world German labour-law workflows. Built with **React, NestJS, PostgreSQL, Prisma**, and an API-first REST/WebSocket architecture.
-* **[SourceBraid](https://github.com/patrickschiller/sourcebraid):** A local-first workflow for turning web sources into durable Markdown archives that stay under the user's control.
+## 🧠 Agentic Engineering & LLMs
 
-#### 💖 Sponsor My Open-Source Work
-If these projects save you time or help you build something better, you can support their continued development through [GitHub Sponsors](https://github.com/sponsors/patrickschiller). Sponsorships help cover hosting, domains, CI infrastructure, documentation, and the time required to maintain dependable open-source releases.
+- **Agentic Systems:** Designing autonomous agents, multi-agent workflows, tool integrations, memory, orchestration, and human-in-the-loop controls.
+- **LLM Engineering:** Evaluating, fine-tuning, integrating, and operating local and cloud-based language models.
+- **Reliable AI:** Building observable and maintainable agent workflows with clear trust boundaries, validation, and failure handling.
+- **AI Governance:** Certified AI Officer with a focus on responsible AI adoption and the **EU AI Act**.
+- **Application Architecture:** Production systems using **TypeScript, NestJS, React, PostgreSQL, Swift, and Azure**.
 
-#### 🏢 Bütema AG
-As CTO of [Bütema AG](https://www.buetema-ag.de), I lead the technical vision for **Digital Signage** and **Mobile ERP** (mERP):
-* **mERP Ecosystem:** Mobile software networking all POS processes with deep merchandise system integration.
-* **Digital Signage:** Architecting CMS and hardware for global screen networks and LED walls.
-* **AI & Automation:** Implementing solutions like the AI assistant **KIra** for automated retail services.
+## 🦞 My AI Setup
 
-#### ♾️ Featured Projects
+**Neo** is my personal OpenClaw agent. It tracks GitHub issues, monitors relevant project activity, and conducts targeted research to keep development work and technical decisions moving.
 
-##### MACE (Mobile Agentic Commerce Ecosystem)
-Architecting a UCP-native Mobile ERP system designed for **Agentic Commerce**:
-* **Vision:** Enabling AI agents to negotiate and purchase via the **Universal Commerce Protocol**.
-* **Tech:** Using **Azure AI Vision** for instant JSON-LD product transformation and high-integrity inventory systems.
+My local AI environment runs across a **Mac Studio and Mac mini**, combining OpenClaw workloads with local LLMs and cloud models. PickerMux connects locally hosted LM Studio models directly with my Codex Desktop workflow.
 
-##### [SaalButler](https://saalbutler.de/)
-Building a Universal PWA for seated events such as Prunksitzungen, theater, and venues:
-* **Vision:** Helping operators increase revenue and reduce stress by letting guests order at the table via QR code, pay with PayPal, and keep kitchen and runner workflows clear in real time.
-* **Tech:** Universal PWA with role-based Guest, Kitchen, Runner, and Admin views, PayPal Express Checkout, WebSockets for real-time order/status updates, tablet-based Kitchen Display, smartphone Runner View, and live revenue tracking.
+## 🌱 Open Source
 
-#### Beyond the Code
-* ⛳ **Golf (HCP <14)** . 🍷 **Wine Enthusiast**
+- **[PickerMux](https://github.com/patrickschiller/pickermux):** Use local LM Studio models directly from the Codex Desktop model picker while keeping native Codex models available. PickerMux provides namespaced model routing, accurate context information, capability certification, and strict credential isolation.
+- **[SourceBraid](https://github.com/patrickschiller/sourcebraid):** A local-first workflow for turning web sources into durable Markdown archives that remain under the user's control.
+- **[OpenClockwork](https://github.com/patrickschiller/openclockwork):** Self-hosted time tracking and attendance designed around real-world German working-time workflows.
 
-"Excellence through innovation. Turning ambitious visions into scalable, production-ready solutions."
+## 🏢 Building at Bütema AG
+
+At [Bütema AG](https://www.buetema-ag.de), I lead the technical vision for Digital Signage, Mobile ERP, AI services, and connected retail platforms.
+
+- **Mobile ERP:** Real-time applications connecting store operations with enterprise merchandise systems.
+- **Digital Signage:** CMS, device, and infrastructure platforms for global screen and LED networks.
+- **AI & Automation:** Production AI services such as **KIra**, our assistant for automated retail workflows.
+
+## ♾️ Selected Product Work
+
+### MACE — Mobile Agentic Commerce Ecosystem
+
+A UCP-native Mobile ERP architecture designed for **Agentic Commerce**, enabling AI agents to discover, negotiate, and purchase through structured commerce protocols.
+
+### [SaalButler](https://saalbutler.de/)
+
+A mobile-first ordering and operations platform for seated events, connecting guests, kitchens, runners, payments, and live revenue tracking in one real-time workflow.
+
+## 💖 Sponsor My Open-Source Work
+
+If my projects save you time or help you build something better, you can support their continued development through [GitHub Sponsors](https://github.com/sponsors/patrickschiller).
+
+Sponsorships help cover infrastructure, testing, documentation, research, and the time required to maintain dependable open-source releases.
+
+## Beyond the Code
+
+⛳ **Golf — HCP <14** · 🍷 **Wine enthusiast**
+
+> Excellence through innovation. Turning ambitious visions into scalable, production-ready solutions.
